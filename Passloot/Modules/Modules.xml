@@ -17,6 +17,8 @@
 	<Script file="LootWon.lua"/>
 	<Script file="MysticEnchant.lua"/>
 	<Script file="MythicItemLevel.lua"/>
+	<Script file="PlayerClass.lua"/>
+	<Script file="PlayerLevel.lua"/>
 	<Script file="PlayerName.lua"/>
 	<Script file="Quality.lua"/>
 	<Script file="RequiredLevel.lua"/>

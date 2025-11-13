@@ -232,3 +232,5 @@ L["NameRule"] = true
 L["(Add) or (remove) an item by name to an existing rule."] = true
 L["IDRule"] = true
 L["(Add) or (remove) an item by id to an existing rule"] = true
+L["Player Class"] = true
+L["Selected rule will match against the player's class."] = true
